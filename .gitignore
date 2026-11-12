@@ -1,4 +1,5 @@
 __pycache__/
 *.pyc
 config.json
+web_profile/
 _preview*.png
